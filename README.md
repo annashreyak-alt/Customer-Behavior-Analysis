@@ -15,7 +15,8 @@ Whether you're a data analyst, BI engineer, or aspiring data professional, this 
 
 ## 📸 Dashboard Preview
 
-![Customer Behaviour Analysis Dashboard](assets/customer_behaviour_analysis_dashboard.png)
+<img width="712" height="377" alt="customer behaviour analysis dashboard" src="https://github.com/user-attachments/assets/ca57d8eb-0084-4df0-a4a1-c52aa267350c" />
+
 
 > **Customer Behaviour Analysis Dashboard** — An interactive dashboard showcasing key metrics including number of customers, average purchase amount, average review rating, revenue and sales breakdown by age group and category, subscription status distribution, and filters for gender, category, and shipping type.
 
